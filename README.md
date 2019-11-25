@@ -4,6 +4,7 @@
 
 - Enter an email address
 - Enter a password
+- Select which API you want to use to pull Things from
 - Create a new account
 - Sign-in to an existing account
 - Creating an account or sigining in should present a Tab Bar Controller with a Things View Controller and a Favorite Things View Controller.
