@@ -31,8 +31,8 @@ You must allow a user to select from at least 2 APIs when building their account
 
 ## Rubric
 
-![rubricPartOne](./rubricPartOne.png)
-![rubricPartTwo](./rubricPartTwo.png)
+![rubricPartOne](./images/rubricPartOne.png)
+![rubricPartTwo](./images/rubricPartTwo.png)
 
 # UI
 
