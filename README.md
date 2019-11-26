@@ -23,11 +23,11 @@ For building your UI, you must build at least one View Controller using a Storyb
 
 You must allow a user to select from at least 2 APIs when building their account.  Select from any of the following on this list:
 
-- 1
-- 2
-- 3
-- 4
-- 5
+|---|---|
+| Name | Table View | Detail View |
+| Ticket master | Use their [discovery API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/) to load all events at a location that the user searches for.  Include an image, the name of the event, and the time the event starts | In addition to the info from the Table View, display the price ranges and a link to the event.
+| Rijksmuseum | Use their [Collection API](https://data.rijksmuseum.nl/object-metadata/api/) to load all museum items from a name that the user searches for.  Include an image and the title of the item. | Use the [Collection Details API](https://data.rijksmuseum.nl/object-metadata/api/) to load additional information about the select item including its plaque Description in English, its date it was created, and the place it was produced.
+
 
 ## Rubric
 
