@@ -5,7 +5,7 @@
 For this assessment, build a Firebase-backed project with the following functionality:
 
 - Users can create accounts and sign in
-- When creating an account, a user can choose which API they want to use
+- When creating an account, a user can choose which API they want to use: event tickets or art search
 - After signing-in or creating an account, the user is presented with a screen that displays a list of information from their selected API
 - Each cell should have a heart icon that the user can tap to favorite the item
 - If the item has already been favorited, the heart should load as filled in, and tapping it should unfavorite the cell
@@ -21,7 +21,7 @@ For building your UI, you must build at least one View Controller using a Storyb
 
 ## APIs
 
-You must allow a user to select from at least 2 APIs when building their account.  Select from any of the following on this list:
+You must allow a user to select from at least 2 APIs when building their account:
 
 | Name | Table View | Detail View |
 |---|---|---|
