@@ -54,6 +54,7 @@ You must allow a user to select from at least 2 APIs when building their account
 ## List Items Screen
 
 - Display a list of data from an API
+- Entering text in the search bar searches for and displays relevant data
 - Have a favorite button in each cell
 - Tapping the favorite button should fill the UI and make a call to favorite in the backend
 - Selecting a cell should segue to a detail View Controller that displays additional information
