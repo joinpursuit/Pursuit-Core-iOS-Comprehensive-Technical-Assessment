@@ -16,7 +16,6 @@ For this assessment, build a Firebase-backed project with the following function
 
 - Use Firebase Auth to manage account creation and signing in
 - Use Firebase Firestore to manage which items have been favorited
-- 
 
 ## Login Screen
 
