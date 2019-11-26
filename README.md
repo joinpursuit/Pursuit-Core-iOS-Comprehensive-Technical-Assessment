@@ -12,6 +12,8 @@ For this assessment, build a Firebase-backed project with the following function
 - Tapping on a cell should segue to a detail screen displaying more information about the item
 - There should also be a screen that shows only the favorited items.  Tapping the heart icon should unfavorite it and remove it from the favorites list
 
+For building your UI, you must build at least one View Controller using a Storyboard file, and at least one View Controller purely programmatically.
+
 ## Frameworks
 
 - Use Firebase Auth to manage account creation and signing in
