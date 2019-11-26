@@ -17,29 +17,48 @@ For this assessment, build a Firebase-backed project with the following function
 - Use Firebase Auth to manage account creation and signing in
 - Use Firebase Firestore to manage which items have been favorited
 
+## APIs
+
+You must allow a user to select from at least 2 APIs when building their account.  Select from any of the following on this list:
+
+- 1
+- 2
+- 3
+- 4
+- 5
+
 ## Login Screen
 
 - Enter an email address
 - Enter a password
 - Sign-in to an existing account
 
+![loginScreen](./images/loginScreen.png)
+
 ## Create Account Screen
 
 - Select which API you want to pull from
 - Create a new account
 
+![createAccountScreen](./images/createAccountScreen.png)
 
-## Things Screen
+## List Items Screen
 
 - Display a list of data from an API
 - Have a favorite button in each cell
 - Tapping the favorite button should fill the UI and make a call to favorite in the backend
 - Selecting a cell should segue to a detail View Controller that displays additional information
 
-## Thing Detail Screen
+![listItemsScreen](./images/listItemsScreen.png)
 
-- Show additional information about the selected Thing
+## Item Detail Screen
 
-## Favorite Things Screen
+- Show additional information about the selected item
+
+![itemDetailScreen](./images/itemDetailScreen.png)
+
+## Favorite Items Screen
 
 - Display a list of on the Things that have been favorited by the user.  Each cell should contain a favorite button which the user can tap to unfavorite the Thing
+
+![favoriteItemsScreen](./images/favoriteItemsScreen.png)
