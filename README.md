@@ -29,6 +29,13 @@ You must allow a user to select from at least 2 APIs when building their account
 - 4
 - 5
 
+## Rubric
+
+![rubricPartOne](./rubricPartOne.png)
+![rubricPartTwo](./rubricPartTwo.png)
+
+# UI
+
 ## Login Screen
 
 - Enter an email address
