@@ -44,10 +44,11 @@ You **must** unit test your models.
 - A user should be able to log out of their account from a button in the list view controllers.
 
 [Firebase Auth Documentation on "user lifecycle"](https://firebase.google.com/docs/auth/users#the_user_lifecycle)
+
 [Firebase Auth Documentation for .signOut](https://firebase.google.com/docs/reference/ios/firebaseauth/api/reference/Classes/FIRAuth#-signout:).
 
 
-### Here is a sample entry in a `users` Firestore collection:
+### Here is a sample entry in a `users` collection:
 
 ![userEntry](./images/firestoreUserCollection.png)
 
