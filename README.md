@@ -121,4 +121,6 @@ You **must** unit test your models.
 
 ## Stretch
 
-![favoriteItemsScreen](./images/favoriteItemsScreen.png)
+Add a third tab, Settings, that allows a user to:
+- change their app experience. This should change the user's experience in-app, and update their user model in FireStore.
+- clear all favorites for the current experience.
