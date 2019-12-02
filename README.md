@@ -68,7 +68,7 @@ You **must** unit test your models.
 
 ![rubricPartOne](./images/rubricPartOne.png)
 ![rubricPartTwo](./images/rubricPartTwo.png)
-
+![rubricPartThree](./images/rubricPartThree.png)
 
 # UI
 
