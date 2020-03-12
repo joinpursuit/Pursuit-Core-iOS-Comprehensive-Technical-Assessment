@@ -4,13 +4,18 @@
 ## Github Instructions
 
 Every fellow has been given a private repo for this assessment. Please follow these instructions:
-- Clone this repo.
-- Create a new branch for yourself, as `master` is protected from any merges.
+- Create a private repo 
+- Add us as collaborators Antonio[AntonioFlores1], Aaron[AaronCab], Alex Paul[alexpaul]
+- Create a branch called `qa`
 - Complete the sections below.
+- The PR needs to be from`qa` to `master` branch 
+- Reminder to tag us in the PR comments eg. @AntonioFlores1, @AaronCab
 - Commit often; a clean and logical commit history is part of the requirements of this project.
 - Add, commit and push your changes
-- Create a pull request from your repo to `master`, and tag the instruction team in your pull request.
-- Paste the link of your pull request into Canvas.
+- Paste the link of your repo into Canvas.
+- There will be 2 major PR. One on Tuesday evening and one for Thursday evening and Friday is final submission of the project
+- We will be checking your commits as part of attendance  
+
 
 
 ## App Description
