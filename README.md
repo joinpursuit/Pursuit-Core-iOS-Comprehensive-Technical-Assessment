@@ -9,7 +9,7 @@ Every fellow has been given a private repo for this assessment. Please follow th
 - Create a branch called `qa`
 - Complete the sections below.
 - The PR needs to be from`qa` to `master` branch 
-- Reminder to tag us in the PR comments eg. @AntonioFlores1, @AaronCab
+- Reminder to tag us in the PR comments eg. @AntonioFlores1, @AaronCab, @alexpaul
 - Commit often; a clean and logical commit history is part of the requirements of this project.
 - Add, commit and push your changes
 - Paste the link of your repo into Canvas.
