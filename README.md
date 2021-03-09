@@ -4,8 +4,6 @@
 ## Github Instructions
 
 Every fellow has been given a private repo for this assessment. Please follow these instructions:
-- Create a private repo 
-- Add us as collaborators Antonio[AntonioFlores1], Aaron[AaronCab], Alex Paul[alexpaul]
 - Create a branch called `qa`
 - Complete the sections below.
 - The PR needs to be from`qa` to `master` branch 
